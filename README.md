@@ -1,4 +1,8 @@
-### Moin
-Ich bin Oliver Schlüter, 19 Jahre alt. Ich treibe mich hauptsächlich in der Webentwicklung und in der Java-Welt auf.
+### Hey,
+ich bin Oliver Schlüter, 19 Jahre alt. Ich programmiere schon seit längerem mit Leidenschaft.
 
-Ich habe mit dem Programmieren ca 2016 angefangen. Warte - wenn du mehr über mich wissen willst, schau dir doch mal mein Portfolio an: https://schlueter-oliver.de/portfolio/
+Hauptsächlich programmier ich mit Java, HTML/CSS, JavaScript, PHP und C#. Auch erste Erfahrungen habe ich mit Python und C/C++ (Arduino).
+
+Wenn es um Datenbanken geht, habe ich Erfahrungen mit MySQL, SQLite, MongoDB, Access und seit neuem Google Firestore.
+
+Du willst noch mehr über mich erfahren - dann schau dir doch mal meine persönliche Website an: https://schlueter-oliver.de/portfolio/
