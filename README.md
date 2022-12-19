@@ -1,14 +1,12 @@
 ### Hey 👋,
-ich bin Oliver Schlüter, 19 Jahre alt. Ich programmiere schon seit längerem mit Leidenschaft.
+I am Oliver and I enjoy programming.
 
-Hauptsächlich programmier ich mit Java, C#, HTML/CSS, JavaScript, PHP und GoLang.
+Mainly I'm programming with Java, C#, GoLang, HTML/CSS, JavaScript and PHP.
 
-Wenn es um Datenbanken geht, habe ich Erfahrungen mit MySQL, SQLite, MongoDB und Access.
+I have experience with MySQL, SQLite, MongoDB and _MS Access (🤢)_
 
-Du willst mehr über mich erfahren - dann schau dir doch mal meine persönliche Website an: https://schlueter-oliver.de/portfolio/
-
-Dinge die ich noch machen will:
-
-- [ ] quantum computing
+### TODO:
+- [x] making a programming language
+- [ ] experimenting with quantum computing
 - [ ] operating system from scratch in C
-- [ ] implement minecraft server ([protocol](https://wiki.vg/Protocol))
+- [ ] implement [minecraft server protocol](https://wiki.vg/Protocol)
