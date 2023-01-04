@@ -1,7 +1,7 @@
 ### Hey 👋,
 I am Oliver and I enjoy programming.
 
-Mainly I'm programming with Java, C#, GoLang, HTML/CSS, JavaScript and PHP.
+Mainly I'm programming with **Java**, C#, GoLang, HTML/CSS, JavaScript and PHP.
 
 I have experience with MySQL, SQLite, MongoDB and _MS Access (🤢)_
 
