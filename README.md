@@ -7,6 +7,7 @@ I have experience with MySQL, SQLite, MongoDB and _MS Access (🤢)_
 
 ### TODO:
 - [x] making a programming language
+- [ ] learn typescript and scss
 - [ ] experimenting with quantum computing
 - [ ] operating system from scratch in C
 - [ ] implement [minecraft server protocol](https://wiki.vg/Protocol)
