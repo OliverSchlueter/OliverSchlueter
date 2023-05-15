@@ -1,13 +1,17 @@
-### Hey 👋,
-I am Oliver and I enjoy programming.
+### About Me
+Hello! I'm Oliver, a passionate programmer in Java, C#, Golang, HTML, CSS, JavaScript and PHP.<br>
+I specialize in backend development, with expertise in database management using MySQL, SQLite, and MongoDB.
 
-Mainly I'm programming with **Java**, C#, GoLang, HTML, CSS, JavaScript and PHP.
+### Projects
+Here are a few notable projects I've worked on:
 
-I have experience with MySQL, SQLite and MongoDB
+ - Stack++: simple programming langauge written in Java
+ - Buildify: easy build and deployment system writting in Go & Vue
+ - FancyMcPlugins: minecraft paper util plugins written in Java
 
-### TODO:
-- [x] making a programming language
-- [ ] learn vue.js, typescript and scss
-- [ ] experimenting with quantum computing
-- [ ] operating system from scratch in C
-- [ ] implement [minecraft server protocol](https://wiki.vg/Protocol)
+Feel free to explore my repositories to discover more exciting projects!
+
+### Contact Me
+
+ - Discord: `Oliver#6538`
+ - Email: `mail@schlueter-oliver.de`
