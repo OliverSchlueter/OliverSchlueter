@@ -14,4 +14,3 @@ Feel free to explore my repositories to discover more exciting projects!
 ### 📬Contact Me
 
  - Discord: `Oliver#6538`
- - Email: `mail@schlueter-oliver.de`
