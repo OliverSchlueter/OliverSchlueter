@@ -11,10 +11,9 @@ Here are a few notable projects I've worked on:
 Feel free to explore my repositories to discover more exciting projects!
 
 ### 🔭Skills
- - Java
- - MySQL, SQLite, MongoDB
+ - Java, C#, GoLang
  - HTML, CSS, JavaScript
- - C#, GoLang, PHP
+ - MySQL, SQLite, MongoDB
 
 ### 📬Contact Me
  - Discord: `Oliver#6538`
