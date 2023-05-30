@@ -14,6 +14,3 @@ Feel free to explore my repositories to discover more exciting projects!
  - Java, C#, GoLang
  - HTML, CSS, JavaScript
  - MySQL, SQLite, MongoDB
-
-### 📬Contact Me
- - Discord: `Oliver#6538`
