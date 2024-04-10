@@ -12,11 +12,11 @@ Feel free to explore my repositories to discover more exciting projects!
 
 ### 🔭Skills
 
-**Programming languages:**<br>
-Java, Go, TypeScript
+**Programming skills:**<br>
+Java, Go, TypeScript, Vue.js
 
 **Database management systems:**<br>
-MySQL, SQLite, MongoDB
+MongoDB, MySQL, SQLite, Redis
 
-**IDEs/Editors:**<br>
-IntelliJ IDEA, Windows Text Editor
+**Tools:**<br>
+Git, Gradle, Docker, IntelliJ IDEA, VSCode
