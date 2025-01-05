@@ -14,21 +14,21 @@ Feel free to explore my repositories to discover more exciting projects!
 ### 🔭Skills
 
 **Main programming skills:**<br>
-- Java for creating minecraft plugins and webserver backends
-- GoLang for small tools and webserver backends
-- Vue.js and TypeScript for websites
-- Currently learning Wwift
-- Want to learn Kotlin
+- **Java** for creating minecraft plugins and webserver backends
+- **GoLang** for small tools and webserver backends
+- **Vue.js** and **TypeScript** for websites
+- Currently learning **Swift**
+- Want to learn **Kotlin**
 
 **Database management systems:**<br>
-- MongoDB
-- Redis
-- MySQL
+- **MongoDB**
+- **Redis**
+- **MySQL**
 
 **Tools:**<br>
-- Git and GitHub for storing code
-- GitHub Actions and Jenkins for CI/CD pipelines
-- Docker and DockerHub for deploying apps
-- Gradle, Maven and Reposilite for dependencies and publishing APIs
-- IntelliJ, Fleet and Writerside for writing code and docs
+- **Git** and **GitHub** for storing code
+- **GitHub Actions** and **Jenkins** for CI/CD pipelines
+- **Docker** and **DockerHub** for deploying apps
+- **Gradle**, **Maven** and **Reposilite** for dependencies and publishing APIs
+- **IntelliJ**, **Fleet** and **Writerside** for writing code and docs
 
