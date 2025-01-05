@@ -3,7 +3,7 @@ Hey, I'm a german guy having too much fun with editing text files.<br>
 
 ### 🚀Projects
 Here are a few notable projects I've worked on:
- - [Morgen-Pruefung.de](https://github.com/morgen-pruefung): german open-source education platform optimized for specific exams
+ - [Morgen-Pruefung.de](https://github.com/morgen-pruefung): german education platform optimized for specific exams
  - [FancyNpcs](https://github.com/FancyMcPlugins/FancyNpcs): minecraft npc plugin running on over 3000 servers
  - [FancyHolograms](https://github.com/FancyMcPlugins/FancyHolograms): minecraft hologram plugin running on over 3000 servers
  - [Buildify](https://github.com/OliverSchlueter/Buildify): lightweight build and deployment system written in GoLang
@@ -14,12 +14,21 @@ Feel free to explore my repositories to discover more exciting projects!
 ### 🔭Skills
 
 **Main programming skills:**<br>
-Java, Go, TypeScript, Vue.js
-
-Currently learning Swift
+- Java for creating minecraft plugins and webserver backends
+- GoLang for small tools and webserver backends
+- Vue.js and TypeScript for websites
+- Currently learning Wwift
+- Want to learn Kotlin
 
 **Database management systems:**<br>
-MongoDB, Redis, MySQL
+- MongoDB
+- Redis
+- MySQL
 
 **Tools:**<br>
-Git, Gradle, Docker, IntelliJ IDEA
+- Git and GitHub for storing code
+- GitHub Actions and Jenkins for CI/CD pipelines
+- Docker and DockerHub for deploying apps
+- Gradle, Maven and Reposilite for dependencies and publishing APIs
+- IntelliJ, Fleet and Writerside for writing code and docs
+
