@@ -3,8 +3,8 @@ Hey, I'm a german guy having too much fun with editing text files. I'm studying 
 
 ### 🚀 Projects
 Here are a few notable projects I've worked on:
- - [FancyNpcs](https://github.com/FancyMcPlugins/FancyNpcs): minecraft npc plugin running on over 4500 servers
  - [FancyHolograms](https://github.com/FancyMcPlugins/FancyHolograms): minecraft hologram plugin running on over 5000 servers
+ - [FancyNpcs](https://github.com/FancyMcPlugins/FancyNpcs): minecraft npc plugin running on over 4500 servers
  - [Mauerstrassenloewen](https://github.com/OliverSchlueter/mauerstrassenloewen): AI powered finacial coach & advisor (PoC, WIP, group work)
  - [Morgen-Pruefung.de](https://github.com/morgen-pruefung): german education platform optimized for specific exams (WIP, group work)
  - [Buildify](https://github.com/OliverSchlueter/Buildify): lightweight build and deployment system written in GoLang
