@@ -1,38 +1,38 @@
 ### 👨‍💻 About Me
-Hey, I'm a german guy having too much fun with editing text files. I'm studying business economics & computer science and working for a software company.
+Hey, I'm a german guy having too much fun with editing text files. I'm studying business economics & computer science and working for a software company. 
+In 2015 I started coding Minecraft plugins with Java and well... I'm still doing it. Meanwhile, I also learnt about web development and databases.
 
 ### 🚀 Projects
 Here are a few notable projects I've worked on:
- - [FancyHolograms](https://github.com/FancyMcPlugins/FancyHolograms): minecraft hologram plugin running on over 5000 servers
- - [FancyNpcs](https://github.com/FancyMcPlugins/FancyNpcs): minecraft npc plugin running on over 4500 servers
- - [Mauerstrassenloewen](https://github.com/OliverSchlueter/mauerstrassenloewen): AI powered finacial coach & advisor (PoC, WIP, group work)
- - [Morgen-Pruefung.de](https://github.com/morgen-pruefung): german education platform optimized for specific exams (WIP, group work)
- - [Buildify](https://github.com/OliverSchlueter/Buildify): lightweight build and deployment system written in GoLang
- - [Stack++](https://github.com/OliverSchlueter/StackPP): simple assembly like programming langauge written in Java
- - [iStream](https://github.com/OliverSchlueter/iStream): simple streaming platform (group work)
+ - [FancyInnovations](https://github.com/FancyInnovations): collection of Minecraft plugins and tools used by thousands users
+ - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 5700 servers
+ - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 5300 servers
+ - [Morgen-Pruefung.de](https://github.com/morgen-pruefung) *(work-in-progress)*: german education platform optimized for specific exams
+ - [Mauerstrassenloewen](https://github.com/OliverSchlueter/mauerstrassenloewen) *(proof-of-concept)*: AI powered finacial coach using microservices
  
-Feel free to explore my repositories to discover more exciting projects!
+*Feel free to explore my repositories to discover more exciting projects!*
 
 ### 🔭 Skills
 
-**Main programming skills:**<br>
-- **Java** for creating minecraft plugins and backends
-- **GoLang** for cli-tools and backends
-- **Vue.js** and **TypeScript** for web development
-- Want to learn **Kotlin**
+**Programming skills:**<br>
+- **Java**: been coding in Java since 2015 and specialized in Minecraft plugins
+- **GoLang**: about 2 years of experience (learnt it in my job)
+- **HTML, CSS, JS, PHP**: can't remember when I learnt this, probably around 2018
+- **Vue.js** and **TypeScript**: 2 years of experience (also learnt it in my job)
+- I've got some experience with **C#**, **python** and **swift**
 
 **Data storage systems:**<br>
-- **MongoDB**
-- **Redis**
-- **MySQL & SQLite**
-- **S3 & MinIO**
-- Learning: **Qdrant (vector database)**
+- **MySQL & SQLite**: we all love it
+- **MongoDB**: learnt it my job and used it quite a lot in private projects
+- **Redis**: same with MongoDB
+- **S3 & MinIO**: same with MongoDB and Redis
 
 **Tools:**<br>
-- **MacOS** as primary operating system
-- **IntelliJ Ultimate** for editing text files
-- **Git** and **GitHub** for storing code
+- **MacOS** as primary operating system (fck windows)
+- **IntelliJ** for editing text files
+- **Git**, **GitHub**, **Gitlab** and **Gitea** for storing code
 - **GitHub Actions** and **Jenkins** for CI/CD pipelines
 - **Docker** and **DockerHub** for publishing application images
 - **Gradle** and **Bazel** for dependency management and publishing APIs
 
+If you want to get in touch with me, feel free to add me on discord: `real_oliver`.
