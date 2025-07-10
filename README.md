@@ -5,10 +5,10 @@ In 2015 I started coding Minecraft plugins with Java and well... I'm still doing
 ### 🚀 Projects
 Here are a few notable projects I've worked on:
  - [FancyInnovations](https://github.com/FancyInnovations): collection of Minecraft plugins and tools used by thousands users
- - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 5700 servers
- - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 5300 servers
+ - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 7000 servers
+ - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 7000 servers
  - [Morgen-Pruefung.de](https://github.com/morgen-pruefung) *(work-in-progress)*: german education platform optimized for specific exams
- - [Mauerstrassenloewen](https://github.com/OliverSchlueter/mauerstrassenloewen) *(proof-of-concept)*: AI powered finacial coach using microservices
+ - [Mail Server](https://github.com/OliverSchlueter/mail-server): smtp and imap server written in go
  
 *Feel free to explore my repositories to discover more exciting projects!*
 
@@ -19,7 +19,7 @@ Here are a few notable projects I've worked on:
 - **GoLang**: about 2 years of experience (learnt it in my job)
 - **HTML, CSS, JS, PHP**: can't remember when I learnt this, probably around 2018
 - **Vue.js** and **TypeScript**: 2 years of experience (also learnt it in my job)
-- I've got some experience with **C#**, **python** and **swift**
+- I've got some experience with **C#**, **Python** and **Swift**
 
 **Data storage systems:**<br>
 - **MySQL & SQLite**: we all love it
