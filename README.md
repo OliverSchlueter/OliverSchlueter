@@ -8,7 +8,8 @@ Here are a few notable projects I've worked on:
  - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 9000 servers
  - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 8000 servers
  - [FancyAnalytics](https://fancyanalytics.net): platform for collecting, storing and visualizing analytical data *(WIP)*
- - [Mail Server](https://github.com/OliverSchlueter/mail-server): smtp and imap server written in go
+ - [goutils](https://github.com/OliverSchlueter/goutils): collection of useful go utilities for various tasks
+ - [Mail Server](https://github.com/OliverSchlueter/mail-server): smtp and imap server written in go *(WIP)*
  
 *Feel free to explore my repositories to discover more exciting projects!*
 
