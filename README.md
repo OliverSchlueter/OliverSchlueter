@@ -5,8 +5,8 @@ In 2015 I started coding Minecraft plugins with Java and well... I'm still doing
 ### 🚀 Projects
 Here are a few notable projects I've worked on:
  - [FancyInnovations](https://github.com/FancyInnovations): collection of Minecraft plugins and tools used by thousands users
- - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 9000 servers
- - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 8000 servers
+ - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 10k servers
+ - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 9k servers
  - [FancyAnalytics](https://fancyanalytics.net): platform for collecting, storing and visualizing analytical data *(WIP)*
  - [goutils](https://github.com/OliverSchlueter/goutils): collection of useful go utilities for various tasks
  - [Mail Server](https://github.com/OliverSchlueter/mail-server): smtp and imap server written in go *(WIP)*
