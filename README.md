@@ -5,10 +5,10 @@ In 2015 I started coding Minecraft plugins with Java and well... I'm still doing
 ### 🚀 Projects
 Here are a few notable projects I've worked on:
  - [FancyInnovations](https://github.com/FancyInnovations): collection of products and services used by thousands users
- - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 12k servers
- - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 11k servers
+ - [FancyNpcs](https://github.com/FancyInnovations/FancyPlugins): minecraft npc plugin running on over 13k servers
+ - [FancyHolograms](https://github.com/FancyInnovations/FancyPlugins): minecraft hologram plugin running on over 12k servers
  - [FancyAnalytics](https://fancyanalytics.net): platform for collecting, storing and visualizing analytical data *(WIP)*
- - [FancySpaces](https://fancyspaces.net): platform for downloading artifacts (espcially my own plugins and other products)
+ - [FancySpaces](https://fancyspaces.net): all-in-one platform for software projects of all kinds
  - [goutils](https://github.com/OliverSchlueter/goutils): collection of useful go utilities used in all my go projects
  
 *Feel free to explore my repositories to discover more exciting projects!*
